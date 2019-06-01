@@ -4,7 +4,7 @@
 
 Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
 
-## What I have created
+## What I have learnt
 
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
