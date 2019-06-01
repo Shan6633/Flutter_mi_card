@@ -1,4 +1,3 @@
-
 # Mi Card
 
 ## Goal
@@ -20,3 +19,5 @@ Now that you've seen how to create a Flutter app entirely from scratch, we're go
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp
 
+![End Banner](https://github.com/Shan6633/Flutter_mi_card/images/tmp.png)
+# Flutter_mi_card
